@@ -1,2 +1,2 @@
 # proyecto-multimedia
-Videojuego implementado en Unity.
+Videojuego implementado en Unity como proyecto para la asignatura Tecnologías Multimedia 2017-2.
